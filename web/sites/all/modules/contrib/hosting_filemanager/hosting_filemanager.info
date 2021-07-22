@@ -1,0 +1,5 @@
+name = Hosting Filemanager
+description = File manager for aegir sites.
+core = 7.x
+
+dependencies[] = hosting_site
